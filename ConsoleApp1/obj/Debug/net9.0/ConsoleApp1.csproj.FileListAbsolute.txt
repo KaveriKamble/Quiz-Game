@@ -1,0 +1,14 @@
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Project_QuizGame\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Project_QuizGame\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Project_QuizGame\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Project_QuizGame\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Project_QuizGame\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Project_QuizGame\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Project_QuizGame\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Project_QuizGame\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Project_QuizGame\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Project_QuizGame\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Project_QuizGame\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Project_QuizGame\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Project_QuizGame\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\kaver\Desktop\althaus Software Deevelopment\Project_QuizGame\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
